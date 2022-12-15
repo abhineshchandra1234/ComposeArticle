@@ -12,7 +12,7 @@ Completed this project as part of android assignment to learn compose. The text 
 - Text
 - Image
 - TextAlign.Justify (to fill text on each line)
-- ContentScale.FillWidth (to fit image to fill entire width.
+- ContentScale.FillWidth (to fit image to fill entire width)
 
 ---
 
